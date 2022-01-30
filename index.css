@@ -35,4 +35,5 @@ button{
 
 input[type="text"] {
     border-color: red;
+    padding: .5rem;
 }
